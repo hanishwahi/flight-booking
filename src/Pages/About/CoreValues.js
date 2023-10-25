@@ -4,7 +4,7 @@ function CoreValues() {
     return (
         <>
             <div className="container-fluid py-3">
-                <div className="container-xxl">
+                <div className="container-xl">
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="about-text-inner">

@@ -9,7 +9,7 @@ function WorkWithAirlines() {
     return (
         <>
             <div className="container-fluid work-airlines  py-5">
-                <div className="container-xxl">
+                <div className="container-xl">
                     <div className="row work-airlines">
                         <h2>We work with All major Airlines</h2>
                     </div>
@@ -17,13 +17,13 @@ function WorkWithAirlines() {
                         <div className="col-lg-2 col-sm-6 mb-5 mb-md-3">
                             <img src={emirates} alt="" />
                         </div>
-                        <div className="col-lg-2 col-sm-6 mb-5 mb-md-3">
+                        <div className="col-lg-3 col-sm-6 mb-5 mb-md-3">
                             <img src={british} alt="" />
                         </div>
                         <div className="col-lg-2 col-sm-6 mb-5 mb-md-3">
                             <img src={delta} alt="" />
                         </div>
-                        <div className="col-lg-2 col-sm-6 mb-5 mb-md-3">
+                        <div className="col-lg-3 col-sm-6 mb-5 mb-md-3">
                             <img src={pacific} alt="" />
                         </div>
                         <div className="col-lg-2 col-sm-6 mb-5 mb-md-3">

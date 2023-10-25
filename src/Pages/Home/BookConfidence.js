@@ -4,7 +4,7 @@ function BookConfidence() {
     return (
         <>
             <div className="container-fluid py-md-5 py-3">
-                <div className="container-xxl">
+                <div className="container-xl">
                     <div className="row best-deal">
                         <h1>Book With Confidence</h1>
                     </div>

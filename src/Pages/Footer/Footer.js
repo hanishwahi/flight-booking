@@ -47,7 +47,7 @@ function Footer() {
 
                     </div>
                     <div className="row footer-text text-center pt-3">
-                        <p>Copyright © 2023 fairclassbooking. All Right Reserved.</p>
+                        <p>Copyright © 2023 fairclassbooking.   All Right Reserved.</p>
                     </div>
                 </div>
             </div>

@@ -27,6 +27,9 @@ function FlightPage() {
             <div className="container-fluid py-3 py-md-5">
                 <div className="container-xl">
                     <div className="row">
+                        <p className='welcome-name'>Welcome {Params.name.toUpperCase()}</p>
+                    </div>
+                    <div className="row">
                         <div className="col-lg-7 mb-3">
                             <div className='book-flight'>
                                 <div className='book-flight-head'>

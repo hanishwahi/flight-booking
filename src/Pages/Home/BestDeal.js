@@ -19,7 +19,7 @@ function BestDeal() {
     return (
         <>
             <div className="container-fluid">
-                <div className="container-xxl">
+                <div className="container-xl">
                     <div className="row best-deal">
                         <h1>Best Deal</h1>
                     </div>

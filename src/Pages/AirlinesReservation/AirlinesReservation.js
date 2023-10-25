@@ -7,7 +7,7 @@ function AirlinesReservation() {
         <>
             <Header />
             <div className="container-fluid py-md-5 py-3">
-                <div className="container-xxl">
+                <div className="container-xl">
                     <div className="row airlines-text">
                         <h2>About Airlines</h2>
                         <p>Airlines are companies that provide air transportation services for passengers and cargo. They play a crucial role in connecting people and goods across the globe, making international travel and trade possible.</p>
