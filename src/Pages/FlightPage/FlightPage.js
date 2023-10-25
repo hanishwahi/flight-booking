@@ -59,7 +59,7 @@ function FlightPage() {
                                     </div>
                                     <div className="row my-4 text-center">
                                         <div className="col book-flight-call">
-                                            <Link to='tel:+1 1800 2354 678' className='w-100'>Call Now to book your flight</Link>
+                                            <Link to='tel:+1 844 2354 678' className='w-100'>Call Now to book your flight</Link>
                                         </div>
                                     </div>
                                 </div>

@@ -3,10 +3,12 @@ import Select from 'react-select'
 import "react-datepicker/dist/react-datepicker.css";
 import { useNavigate, Link } from 'react-router-dom';
 import { airportDB } from '../Home/AirpotDB';
+import { countrycode } from './CountryCode';
 
 function Input() {
     const [airport1, setAirport1] = useState("")
     const [airport2, setAirport2] = useState("")
+    const [code, setCode] = useState(countrycode)
 
     const [name, setName] = useState("")
     const [date, setDate] = useState("")
@@ -36,6 +38,9 @@ function Input() {
             behavior: "smooth"
         })
     }
+
+    const Codefiltered = countrycode.map((code)=> code.dial_code);
+    console.log(Codefiltered);
     return (
         <>
 
