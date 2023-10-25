@@ -193,11 +193,11 @@
 }
 
 /* flight search  */
-.flight-search {
-  margin: 50px 20px;
+.flight-search { 
   padding: 20px;
   background-color: #fff;
   border-radius: 15px;
+  border:  1px solid #ccc;
 }
 
 select {

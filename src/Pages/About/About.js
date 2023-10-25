@@ -10,7 +10,7 @@ function About() {
             <Header />
 
             <div className="container-fluid py-5">
-                <div className="container-xl">
+                <div className="container-xxl">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="about-text">

@@ -24,13 +24,13 @@ function Navbar() {
                                 <Link to='/about' onClick={scrollToHome}>About</Link>
                                 <Link to='/airlines-reservation' onClick={scrollToHome}>Airlines Reservation</Link>
                                 <Link to='/privacy-policy' onClick={scrollToHome}>Privacy Policy</Link>
-                                <Link to='tel:+1 1800 2354 678'>Contact</Link>
+                                <Link to='/contact'>Contact</Link>
                             </div>
                         </div>
                         <div className="col-lg-3 align-self-center main-navbar-hide">
                             <div className="row text-end">
                                 <div className="col call-now-nav">
-                                    <Link to='tel:+1 1800 2354 678'>Call Now</Link>
+                                    <Link to='tel:+1 844 2354 678'>Call Now</Link>
                                 </div>
                             </div>
                         </div>

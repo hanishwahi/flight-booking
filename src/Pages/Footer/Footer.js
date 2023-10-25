@@ -39,15 +39,15 @@ function Footer() {
                         <div className="col-lg-3">
                             <div className="footer-text">
                                 <h2>Get In Touch?</h2>
-                                <p><i class="fa-regular fa-envelope"></i> info@farebooking.online</p>
-                                <p> Address:  6130 W. Flamingo Rd. # 346 Las Vegas, NV 89103</p>
+                                <p><i class="fa-regular fa-envelope"></i> info@fairclassbooking.com</p>
+                                <p> Address:  #ABC</p>
                             </div>
                         </div>
 
 
                     </div>
                     <div className="row footer-text text-center pt-3">
-                        <p>Copyright © 2023 farebooking.online (fare Booking) All Right Reserved.</p>
+                        <p>Copyright © 2023 fairclassbooking. All Right Reserved.</p>
                     </div>
                 </div>
             </div>

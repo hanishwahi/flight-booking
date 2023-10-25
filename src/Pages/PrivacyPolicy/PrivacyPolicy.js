@@ -7,7 +7,7 @@ function PrivacyPolicy() {
         <>
             <Header />
             <div className='container-fluid py-5'>
-                <div className='container-lg'>
+                <div className='container-xxl'>
                     <div className="row privacy-policy">
                         <h2>Privacy Policy</h2>
                     </div>
