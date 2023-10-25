@@ -1,0 +1,118 @@
+@media screen and (max-width:576px) {
+    .top-head h2 {
+        font-size: 15px; 
+    }
+    .slider-text {
+        padding: 30px 0px;
+    }
+    .slider-text h1 { 
+        font-size: 30px;
+    }
+    .slider-text p { 
+        font-size: 22px; 
+    }
+    .main-navbar-hide{
+        display: none;
+    }
+    .flight-search {
+        margin: 0px; 
+    }
+    .form-text1 h2 {
+        font-size: 24px; 
+    }   
+    .book-flight-call a { 
+        padding: 10px 17px; 
+    }
+    .new-menu-hide{
+        display: block;
+     }
+
+     .cloud1 img{
+       display: none;
+     }
+     .navbar {
+        display: inline-grid;
+        line-height: 44px;
+    }
+    .top-head-text{
+        display: none !important;
+    }
+    .great-deal-bg { 
+        padding: 20px; 
+    }
+    .great-deal-text h2 { 
+        font-size: 26px; 
+    }
+    .best-deal h1 {
+        font-size: 24px; 
+    }
+    .confidence h2 {
+        font-size: 20px; 
+    }
+    .work-airlines h2 {
+        font-size: 24px; 
+    }
+}
+@media screen and (min-width:577px) and (max-width:767px) {
+    .slider-text h1 { 
+        font-size: 30px;
+    }
+    .slider-text p { 
+        font-size: 24px;
+    }
+    .slider-text {
+        padding: 50px 30px;
+    }
+    .main-navbar-hide{
+        display: none;
+    }
+    .best-deal h1 {
+        font-size: 26px; 
+    }
+    .confidence h2 {
+        font-size: 19px; 
+        padding: 10px 0px; 
+    }
+    .new-menu-hide{
+        display: block;
+     }
+     .navbar {
+        display: inline-grid;
+        line-height: 44px;
+    }
+    .confidence { 
+        padding: 16px;
+        min-height: 254px;
+    } 
+    .great-deal-bg { 
+        padding: 30px; 
+    }
+    .great-deal-text h2 { 
+        font-size: 30px; 
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .main-navbar-hide{
+        display: none;
+    }
+    .slider-text {
+        padding: 50px 30px;
+    }
+    .slider-text h1 { 
+        font-size: 34px;
+    }
+    .slider-text p { 
+        font-size: 25px; 
+    }
+    .flight-search {
+        margin: 20px 20px; 
+    }
+    .new-menu-hide{
+        display: block;
+     }
+     .navbar {
+        display: inline-grid;
+        line-height: 44px;
+    }
+}
